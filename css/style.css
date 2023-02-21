@@ -45,7 +45,7 @@ body {
     padding: 4px;
 }
 
-.switcher__button {
+.switcher_button {
     height: 100%;
     aspect-ratio: 1/1;
     background-color: #ddd;
@@ -57,7 +57,7 @@ body {
     justify-content: flex-end;
 }
 
-.checkbox__label {
+.checkbox_label {
     display: flex;
     gap: 15px;
 }
